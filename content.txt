@@ -1,0 +1,1 @@
+Streamlit is an open-source app framework for Machine Learning and Data Science teams.The dataset used as an example in the project is generated randomly if a dataset is not selected. This can be used to evaluate the features that statysis provides.
